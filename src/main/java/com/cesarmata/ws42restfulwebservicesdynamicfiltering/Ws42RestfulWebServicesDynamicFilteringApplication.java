@@ -9,5 +9,4 @@ public class Ws42RestfulWebServicesDynamicFilteringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Ws42RestfulWebServicesDynamicFilteringApplication.class, args);
 	}
-
 }
